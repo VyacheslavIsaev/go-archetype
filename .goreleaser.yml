@@ -24,3 +24,10 @@ changelog:
     exclude:
     - '^docs:'
     - '^test:'
+brews:
+  - name: go-archetype
+    homepage: https://github.com/rantav/go-archetype
+    tap:
+      owner: save-ci
+      name: homebrew-tools
+
