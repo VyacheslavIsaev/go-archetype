@@ -29,3 +29,12 @@ changelog:
     exclude:
     - '^docs:'
     - '^test:'
+
+brews:
+- name: go-archetype
+  homepage: https://github.com/rantav/go-archetype
+  description: "Dead simple project blueprints for the rest of us"
+  license: "MIT"
+  repository:
+    owner: save-vi
+    name: homebrew-tools
